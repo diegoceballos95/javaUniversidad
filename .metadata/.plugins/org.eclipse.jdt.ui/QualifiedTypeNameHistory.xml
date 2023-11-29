@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.time.Month"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="ej1clinica.Fecha"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.time.temporal.Temporal"/>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="tp5TAD.ej1y2OperacionesMatematticas.NumeroReal"/>
+    <fullyQualifiedTypeName name="tp6ContLin1.ej2TADPilaArray.PilaArray"/>
+    <fullyQualifiedTypeName name="tp6ContLin1.ej5TADPilaLEnlazada.PilaLEnlazada"/>
+    <fullyQualifiedTypeName name="tp6ContLin1.ej3Nodo.Nodo"/>
+    <fullyQualifiedTypeName name="tp6ContLin1.ej6TADColaLEnlazada.ColaLEnlazada"/>
+    <fullyQualifiedTypeName name="contenedores.Lista1DLinkedL"/>
+    <fullyQualifiedTypeName name="contenedores.Lista2DLinkedL"/>
+    <fullyQualifiedTypeName name="javax.swing.border.LineBorder"/>
+    <fullyQualifiedTypeName name="java.util.EventListener"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionEvent"/>
+    <fullyQualifiedTypeName name="java.awt.Event"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="grafoDirigido.GrafoDirigido"/>
+    <fullyQualifiedTypeName name="contenedores.AbsGrafo"/>
+    <fullyQualifiedTypeName name="esquinaNoroeste.EsquinaNoroeste"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+    <fullyQualifiedTypeName name="java.awt.GridLayout"/>
+    <fullyQualifiedTypeName name="java.awt.Font"/>
+    <fullyQualifiedTypeName name="javax.swing.border.Border"/>
+    <fullyQualifiedTypeName name="java.awt.Insets"/>
+    <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ej1OpMatematicas&apos; to &apos;ej1y2.OpMatematicas&apos;&#x0D;&#x0A;- Original project: &apos;AyED.TP5.TADs&apos;&#x0D;&#x0A;- Original element: &apos;AyED.TP5.TADs/src/ej1OpMatematicas&apos;&#x0D;&#x0A;- Renamed element: &apos;AyED.TP5.TADs/src/ej1y2.OpMatematicas&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ej1OpMatematicas&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ej1OpMatematicas" name="ej1y2.OpMatematicas" qualified="false" references="true" stamp="1683568081484" textual="false" version="1.0"/>
+</session>

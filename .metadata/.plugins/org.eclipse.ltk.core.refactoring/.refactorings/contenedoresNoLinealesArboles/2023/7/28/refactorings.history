@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;NodoArbolBinario.java&apos; to &apos;contenedoresNoLinealesArbolesAVL/src/recursos&apos;&#x0D;&#x0A;- Original project: &apos;contenedoresNoLinealesArboles&apos;&#x0D;&#x0A;- Destination element: &apos;contenedoresNoLinealesArbolesAVL/src/recursos&apos;&#x0D;&#x0A;- Original element: &apos;recursos.NodoArbolBinario.java&apos;" description="Copy compilation unit" destination="=contenedoresNoLinealesArbolesAVL/src&lt;recursos" element1="/src&lt;recursos{NodoArbolBinario.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1688520375692" units="1" version="1.0"/>
+</session>

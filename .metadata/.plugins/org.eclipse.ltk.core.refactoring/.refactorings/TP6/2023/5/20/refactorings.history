@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;clase1.Hbrido&apos; to &apos;Hibrido&apos;&#x0D;&#x0A;- Original project: &apos;TP6&apos;&#x0D;&#x0A;- Original element: &apos;clase1.Hbrido&apos;&#x0D;&#x0A;- Renamed element: &apos;clase1.Hibrido&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hbrido&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;clase1{Hbrido.java[Hbrido" matchStrategy="1" name="Hibrido" qualified="false" references="true" similarDeclarations="false" stamp="1683756100920" textual="false" version="1.0"/>
+</session>

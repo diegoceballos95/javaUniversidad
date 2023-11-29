@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;complejosTAD&apos; to &apos;AlgoritmosYEstructuraDeDatos/src&apos;&#x0D;&#x0A;- Original project: &apos;ayedTAD&apos;&#x0D;&#x0A;- Destination element: &apos;AlgoritmosYEstructuraDeDatos/src&apos;&#x0D;&#x0A;- Original element: &apos;ayedTAD/src/complejosTAD&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=AlgoritmosYEstructuraDeDatos/src" element1="/src&lt;complejosTAD" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1684958941593" version="1.0"/>
+</session>

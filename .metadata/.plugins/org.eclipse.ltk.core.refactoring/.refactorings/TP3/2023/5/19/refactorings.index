@@ -1,0 +1,6 @@
+1682984583947	Encapsulate field 'routerConctado'
+1683043887447	Rename type 'Movimientos'
+1683147951146	Rename type 'Fisico'
+1683147963010	Rename type 'Digital'
+1683153884232	Rename type 'Presentacion'
+1683229515483	Rename local variable 'cirugPorOS'

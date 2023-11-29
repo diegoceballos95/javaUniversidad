@@ -1,0 +1,11 @@
+package logica;
+
+public class Test {
+	public static void main(String[] args) {
+		
+		ObraTeatral obra1 = new ObraTeatral();
+		
+		obra1.mostrarAsientos();
+		
+	}
+}

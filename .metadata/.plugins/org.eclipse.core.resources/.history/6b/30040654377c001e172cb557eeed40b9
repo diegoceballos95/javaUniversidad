@@ -1,0 +1,18 @@
+package logica;
+import java.util.Scanner;
+
+public class Test {
+	public static void main(String[] args) {
+		
+		ObraTeatral obra1 = new ObraTeatral();
+		
+		obra1.mostrarAsientos();
+		
+		boolean bandera = true;
+		
+		while(bandera) {
+			System.out.println();
+		}
+		
+	}
+}

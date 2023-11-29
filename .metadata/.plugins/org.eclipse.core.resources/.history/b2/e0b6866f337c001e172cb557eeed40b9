@@ -1,0 +1,29 @@
+package logica;
+import java.util.Arrays;
+
+public class obraTeatral {
+	//ATRIBUTOS
+	private String[][] asientos;
+
+	//CONSTRUCTOR
+	public obraTeatral() {
+		this.asientos = new String[10][10];
+	}
+
+	//METODOS
+	private void cargarAsientos() {
+		for(int i = 0; i < this.asientos.length; i++) {
+			Arrays.fill(this.asientos[i], "X");
+		}
+	}
+	
+	
+	public String verificarAsiento(int i, int j) {
+		return asientos[i][j];
+	}
+	
+	public void reservarAsiento(int i, int j) {
+		this.asientos[i][j] = "X";
+	}
+
+}

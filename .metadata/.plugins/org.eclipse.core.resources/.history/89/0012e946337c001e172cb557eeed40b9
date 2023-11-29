@@ -1,0 +1,17 @@
+package logica;
+import java.util.Arrays;
+
+public class obraTeatral {
+	//ATRIBUTOS
+	private String[][] asientos;
+
+	public obraTeatral() {
+		this.asientos = new String[10][10];
+	}
+	
+	//CONSTRUCTOR
+	
+	//GET AND SET
+	
+
+}
