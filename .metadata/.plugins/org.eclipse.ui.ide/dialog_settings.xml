@@ -11,6 +11,28 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TPsAlgoritmosYEstructuraDeDatos"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP7pt2GUI"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP7pt1GUI"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP6interfaces"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP5ClassMethodAbstract"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP4Matrices"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP3ArrayList"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP2Herencia"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\TP1conceptosPOO"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\ProyectoEsquinaNoroesteSinGUI"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\ProyectoEsquinaNoroeste"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\ProyectoAsientosTeatro"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\ProyectoAgendaElectronica"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\EjerciciosGUI"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\EjerciciosDeClase"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\CursoJava"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\contenedoresNoLinealesGrafos"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\contenedoresNoLinealesArboles"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\contenedoresLinealesStackQueue"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\contenedoresLinealesLinkedList"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\contenedoresNoLinealesArbolesAVL"/>
+			<item value="D:\Documentos\TUP2022\JavaUniversidad\Concurrencia"/>
 			<item value="D:\Documentos\TUP 2022\AyED\AyED 23\UNIDAD 6-  GRAFOS\contenedoresNoLineales\src"/>
 			<item value="D:\Documentos\TUP 2022\JAVA\contenedoresNoLineales"/>
 			<item value="D:\Documentos\TUP 2022\AyED\AyED 23\UNIDAD 6-  GRAFOS\contenedoresNoLineales"/>
@@ -43,6 +65,14 @@
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="171"/>
+		<item key="DIALOG_Y_ORIGIN" value="336"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
 </section>
